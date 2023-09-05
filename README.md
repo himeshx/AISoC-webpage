@@ -1,4 +1,11 @@
-# AISoC-webpage  <!--The title for my project.--> 
+---- 
+<p>
+  <h1 align="center">
+    <b>
+  AISoC Webpage     <!--The title for my project.--> 
+    </b>
+  </h1>
+</p>  
 ----
 
 <h2 align="left">
