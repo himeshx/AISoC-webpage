@@ -37,6 +37,6 @@ Welcome to the Artificial Intelligence Symposium website! Our platform is a test
 - Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.   
 ----
 <div align="center">
-    <img src=""Screenshot (27).png""/>
+    <img src="Screenshot (27).png"/>
 </div>
 
