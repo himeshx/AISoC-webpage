@@ -6,7 +6,6 @@
     </b>
   </h1>
 </p>  
-----
 
 <h2 align="left">
      <b>
@@ -25,8 +24,8 @@ Welcome to the Artificial Intelligence Symposium website! Our platform is a test
 ----
 <h2 align="left">
     <b>
-            :octocat:</a> Tech Stack (Frontend+Backend)
-    </b>
+            :octocat: </a> Tech Stack (Frontend+Backend)
+    </b> 
 </h2>
 
 - JavaScript 
