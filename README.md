@@ -25,7 +25,7 @@ Welcome to the Artificial Intelligence Symposium website! Our platform is a test
 ----
 <h2 align="left">
     <b>
-            🏹</a> Tech Stack (Frontend+Backend)
+            :octocat:</a> Tech Stack (Frontend+Backend)
     </b>
 </h2>
 
